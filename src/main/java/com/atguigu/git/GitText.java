@@ -8,6 +8,7 @@ public class GitText {
         System.out.println("hello gitttttt");
         System.out.println("hello gitttttt master");
         System.out.println("hello gitttttt got-fix");
+        System.out.println("push text");
     }
 
 }
